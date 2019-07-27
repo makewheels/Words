@@ -14,8 +14,8 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JProgressBar;
 
+import queryword.youdao.Youdao;
 import util.WordsUtil;
-import youdao.Youdao;
 
 public class MainFrame extends JFrame {
 	private static final long serialVersionUID = 5514815696919682515L;

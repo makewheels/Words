@@ -1,14 +1,15 @@
-package jinshan;
+package queryword.jinshan;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import com.google.gson.Gson;
 
-import jinshan.bean.JsonResult;
-import jinshan.bean.Parts;
+import queryword.jinshan.bean.JsonResult;
+import queryword.jinshan.bean.Parts;
+import queryword.result.QueryResult;
+import queryword.youdao.Youdao;
 import util.WebUtil;
-import youdao.Youdao;
 
 /**
  * 金山查词
@@ -18,10 +19,14 @@ import youdao.Youdao;
  */
 public class Jinshan {
 
-	public static List<String> query(String word) {
+	public static QueryResult query(String word) {
+		// 最终要返回的查询结果
+		QueryResult queryResult = new QueryResult();
 		String url = "http://dict-co.iciba.com/api/dictionary.php?w=" + word
 				+ "&key=50C9AE4DA77048E57306F32931484BB5&type=json";
+		// 发起查询
 		String json = WebUtil.sendGet(url);
+		// 获得解释
 		JsonResult jsonResult = new Gson().fromJson(json, JsonResult.class);
 		List<String> explain = new ArrayList<>();
 		List<Parts> parts = null;
@@ -50,6 +55,13 @@ public class Jinshan {
 				System.out.println("有道也gg了word=" + word);
 			}
 		}
-		return explain;
+		// 设置解释
+		queryResult.setExplainList(explain);
+		// 获得音标
+		String ph_am = jsonResult.getSymbols().get(0).getPh_am();
+		// 设置音标
+		queryResult.setSound(ph_am);
+		// 返回查询结果
+		return queryResult;
 	}
 }

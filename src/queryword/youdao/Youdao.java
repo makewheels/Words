@@ -1,4 +1,4 @@
-package youdao;
+package queryword.youdao;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

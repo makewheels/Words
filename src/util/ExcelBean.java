@@ -10,6 +10,7 @@ public class ExcelBean {
 	private String word;
 	private String explainPeople;
 	private String explainHtml;
+	private String sound;
 	private int lineCount;
 
 	public String getWord() {
@@ -36,6 +37,14 @@ public class ExcelBean {
 		this.explainHtml = explainHtml;
 	}
 
+	public String getSound() {
+		return sound;
+	}
+
+	public void setSound(String sound) {
+		this.sound = sound;
+	}
+
 	public int getLineCount() {
 		return lineCount;
 	}
@@ -47,7 +56,7 @@ public class ExcelBean {
 	@Override
 	public String toString() {
 		return "ExcelBean [word=" + word + ", explainPeople=" + explainPeople + ", explainHtml=" + explainHtml
-				+ ", lineCount=" + lineCount + "]";
+				+ ", sound=" + sound + ", lineCount=" + lineCount + "]";
 	}
 
 }

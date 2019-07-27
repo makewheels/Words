@@ -1,7 +1,7 @@
 /**
   * Copyright 2018 bejson.com 
   */
-package jinshan.bean;
+package queryword.jinshan.bean;
 
 import java.util.List;
 

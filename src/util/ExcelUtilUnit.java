@@ -21,7 +21,8 @@ import org.apache.poi.ss.usermodel.BorderStyle;
 import org.apache.poi.ss.usermodel.HorizontalAlignment;
 import org.apache.poi.ss.usermodel.VerticalAlignment;
 
-import jinshan.Jinshan;
+import queryword.jinshan.Jinshan;
+import queryword.result.QueryResult;
 
 /**
  * Excel表格工具类：单元词汇<br/>
@@ -37,8 +38,8 @@ public class ExcelUtilUnit {
 	public static void main(String[] args) {
 		long startMillis = System.currentTimeMillis();
 		// 参数配置
-		int start = 2010;
-		int end = start;
+		int start = 1;
+		int end = 30;
 		boolean random = true;
 
 		List<String> sourceWordList = new ArrayList<>();
@@ -76,26 +77,37 @@ public class ExcelUtilUnit {
 	@SuppressWarnings("deprecation")
 	public static void outputExcelPeople(List<String> sourceWordList, String filename, String filepath,
 			boolean random) {
+		// Excel单词表
 		List<ExcelBean> excelWordList = new ArrayList<>();
+		// 随机
 		if (random) {
 			Collections.shuffle(sourceWordList);
 		}
+		// 遍历每一个源词
 		for (String sourceWord : sourceWordList) {
+			// Excel对象
 			ExcelBean excelBean = new ExcelBean();
+			// 设置单词
 			excelBean.setWord(sourceWord);
-			List<String> query = Jinshan.query(sourceWord);
+			// 查词
+			QueryResult queryResult = Jinshan.query(sourceWord);
 			System.out.println(sourceWord);
-			System.out.println(query);
+			System.out.println(queryResult);
 			StringBuilder stringBuilder = new StringBuilder();
-			for (int i = 0; i < query.size(); i++) {
+			// 意思列表
+			List<String> explainList = queryResult.getExplainList();
+			for (int i = 0; i < explainList.size(); i++) {
 				String enter = "";
-				if (i != query.size() - 1) {
+				if (i != explainList.size() - 1) {
 					enter = "\r\n";
 					excelBean.setLineCount(excelBean.getLineCount() + 1);
 				}
-				stringBuilder.append((new HSSFRichTextString(query.get(i) + enter)));
+				stringBuilder.append((new HSSFRichTextString(explainList.get(i) + enter)));
 			}
+			// 设置意思
 			excelBean.setExplainPeople(stringBuilder.toString());
+			// 设置音标
+			excelBean.setSound(queryResult.getSound());
 			excelWordList.add(excelBean);
 		}
 		String fontName = "微软雅黑";
@@ -104,7 +116,8 @@ public class ExcelUtilUnit {
 		HSSFSheet sheet = workbook.createSheet();
 		sheet.setHorizontallyCenter(true);
 		sheet.setColumnWidth(0, 4500);
-		sheet.setColumnWidth(1, 18000);
+		sheet.setColumnWidth(1, 4500);
+		sheet.setColumnWidth(2, 14000);
 		HSSFHeader header = sheet.getHeader();
 		String randomHeader = "";
 		if (random) {
@@ -124,6 +137,8 @@ public class ExcelUtilUnit {
 		cellStyle.setWrapText(true);
 		cellStyle.setBorderTop(BorderStyle.DOTTED);
 		cellStyle.setBorderBottom(BorderStyle.DOTTED);
+		cellStyle.setBorderLeft(BorderStyle.DOTTED);
+		cellStyle.setBorderRight(BorderStyle.DOTTED);
 		cellStyle.setTopBorderColor(HSSFColor.GREY_50_PERCENT.index);
 		cellStyle.setBottomBorderColor(HSSFColor.GREY_50_PERCENT.index);
 		cellStyle.setVerticalAlignment(VerticalAlignment.TOP);
@@ -132,11 +147,18 @@ public class ExcelUtilUnit {
 			ExcelBean excelBean = excelWordList.get(i);
 			String word = excelBean.getWord();
 			String explainPeople = excelBean.getExplainPeople();
+			String sound = excelBean.getSound();
 			HSSFRow row = sheet.createRow(i);
+
 			HSSFCell cell = row.createCell(0);
 			cell.setCellStyle(cellStyle);
 			cell.setCellValue(word);
+
 			cell = row.createCell(1);
+			cell.setCellStyle(cellStyle);
+			cell.setCellValue(sound);
+
+			cell = row.createCell(2);
 			cell.setCellStyle(cellStyle);
 			cell.setCellValue(explainPeople);
 		}
