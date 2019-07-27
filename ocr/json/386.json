@@ -1,0 +1,1286 @@
+{
+  "orientation": "UP",
+  "errorCode": "0",
+  "lines": [
+    {
+      "boundingBox": "34,975,61,975,61,985,34,985",
+      "words": "386"
+    },
+    {
+      "boundingBox": "52,21,100,21,100,30,52,30",
+      "words": "species|"
+    },
+    {
+      "boundingBox": "53,47,92,47,92,56,53,56",
+      "words": "span"
+    },
+    {
+      "boundingBox": "52,59,101,59,101,68,52,68",
+      "words": "Hispanic"
+    },
+    {
+      "boundingBox": "52,71,101,71,101,80,52,80",
+      "words": "Spanish"
+    },
+    {
+      "boundingBox": "51,95,125,95,125,104,51,104",
+      "words": ".supervise"
+    },
+    {
+      "boundingBox": "52,106,124,106,124,115,52,115",
+      "words": "superstition "
+    },
+    {
+      "boundingBox": "54,128,155,128,155,139,54,139",
+      "words": "Cnit(19"
+    },
+    {
+      "boundingBox": "56,148,148,148,148,157,56,157",
+      "words": "词频**☆☆☆"
+    },
+    {
+      "boundingBox": "51,162,84,162,84,171,51,171",
+      "words": "win"
+    },
+    {
+      "boundingBox": "51,175,84,175,84,183,51,183",
+      "words": "wine"
+    },
+    {
+      "boundingBox": "51,187,116,187,116,197,51,197",
+      "words": "windscreen"
+    },
+    {
+      "boundingBox": "51,199,83,199,83,208,51,208",
+      "words": "wind"
+    },
+    {
+      "boundingBox": "51,210,85,210,85,219,51,219",
+      "words": "swing"
+    },
+    {
+      "boundingBox": "51,220,93,220,93,230,51,230",
+      "words": "windfal"
+    },
+    {
+      "boundingBox": "51,248,116,248,116,258,51,258",
+      "words": "•artificial"
+    },
+    {
+      "boundingBox": "62,259,83,259,83,268,62,268",
+      "words": "rtisti"
+    },
+    {
+      "boundingBox": "51,270,203,270,203,279,51,279",
+      "words": "artificial intelligence auto"
+    },
+    {
+      "boundingBox": "51,282,83,282,83,291,51,291",
+      "words": "false"
+    },
+    {
+      "boundingBox": "160,278,234,278,234,286,160,286",
+      "words": "| autonomous"
+    },
+    {
+      "boundingBox": "51,309,124,309,124,319,51,319",
+      "words": "•audience"
+    },
+    {
+      "boundingBox": "56,320,92,320,92,330,56,330",
+      "words": "auditor"
+    },
+    {
+      "boundingBox": "57,345,91,345,91,354,57,354",
+      "words": "bias"
+    },
+    {
+      "boundingBox": "51,357,84,357,84,366,51,366",
+      "words": "biase"
+    },
+    {
+      "boundingBox": "51,370,101,370,101,379,51,379",
+      "words": "prejudice"
+    },
+    {
+      "boundingBox": "50,395,100,395,100,404,50,404",
+      "words": "•crime"
+    },
+    {
+      "boundingBox": "50,405,92,405,92,413,50,413",
+      "words": "crimina"
+    },
+    {
+      "boundingBox": "51,417,131,417,131,426,51,426",
+      "words": "discrimination"
+    },
+    {
+      "boundingBox": "51,444,116,444,116,454,51,454",
+      "words": ".curiosity"
+    },
+    {
+      "boundingBox": "57,455,140,455,140,464,57,464",
+      "words": "e curious of / to"
+    },
+    {
+      "boundingBox": "50,480,114,480,114,488,50,488",
+      "words": "edispute"
+    },
+    {
+      "boundingBox": "50,490,108,490,108,498,50,498",
+      "words": "dispuable"
+    },
+    {
+      "boundingBox": "50,518,124,518,124,527,50,527",
+      "words": "encounter"
+    },
+    {
+      "boundingBox": "57,529,123,529,123,537,57,537",
+      "words": "ounterpart"
+    },
+    {
+      "boundingBox": "57,884,101,884,101,892,57,892",
+      "words": "enath"
+    },
+    {
+      "boundingBox": "49,895,100,895,100,904,49,904",
+      "words": "lengthien"
+    },
+    {
+      "boundingBox": "48,907,99,907,99,916,48,916",
+      "words": "lengthy"
+    },
+    {
+      "boundingBox": "48,919,100,919,100,928,48,928",
+      "words": "at lenath"
+    },
+    {
+      "boundingBox": "48,932,91,932,91,941,48,941",
+      "words": "stretch"
+    },
+    {
+      "boundingBox": "51,554,124,554,124,564,51,564",
+      "words": "profound"
+    },
+    {
+      "boundingBox": "87,565,109,565,109,574,87,574",
+      "words": "ndly"
+    },
+    {
+      "boundingBox": "63,589,131,589,131,600,63,600",
+      "words": "prosperity"
+    },
+    {
+      "boundingBox": "50,600,108,600,108,609,50,609",
+      "words": "prosperous"
+    },
+    {
+      "boundingBox": "50,627,101,627,101,636,50,636",
+      "words": "render"
+    },
+    {
+      "boundingBox": "50,639,101,639,101,648,50,648",
+      "words": "surrender"
+    },
+    {
+      "boundingBox": "49,651,99,651,99,660,49,660",
+      "words": "give up"
+    },
+    {
+      "boundingBox": "49,663,77,663,77,672,49,672",
+      "words": "yield"
+    },
+    {
+      "boundingBox": "50,688,76,688,76,697,50,697",
+      "words": ".en"
+    },
+    {
+      "boundingBox": "95,686,124,686,124,695,95,695",
+      "words": "hten"
+    },
+    {
+      "boundingBox": "50,698,131,698,131,707,50,707",
+      "words": "unenlightened"
+    },
+    {
+      "boundingBox": "49,711,100,711,100,720,49,720",
+      "words": "acquaint"
+    },
+    {
+      "boundingBox": "49,725,93,725,93,734,49,734",
+      "words": "apprise"
+    },
+    {
+      "boundingBox": "49,750,125,750,125,761,49,761",
+      "words": "sexplosion"
+    },
+    {
+      "boundingBox": "49,773,93,773,93,782,49,782",
+      "words": "bursting"
+    },
+    {
+      "boundingBox": "49,797,92,797,92,807,49,807",
+      "words": "•fadel"
+    },
+    {
+      "boundingBox": "58,810,99,810,99,818,58,818",
+      "words": "issolve"
+    },
+    {
+      "boundingBox": "49,821,70,821,70,830,49,830",
+      "words": "sink"
+    },
+    {
+      "boundingBox": "49,833,85,833,85,842,49,842",
+      "words": "vanish"
+    },
+    {
+      "boundingBox": "49,858,132,858,132,868,49,868",
+      "words": "•foundation"
+    },
+    {
+      "boundingBox": "173,22,211,22,211,32,173,32",
+      "words": "panel"
+    },
+    {
+      "boundingBox": "163,32,258,32,258,43,163,43",
+      "words": "panel discussion"
+    },
+    {
+      "boundingBox": "163,60,219,60,219,70,163,70",
+      "words": "epoverty"
+    },
+    {
+      "boundingBox": "181,72,195,72,195,80,181,80",
+      "words": "or"
+    },
+    {
+      "boundingBox": "163,84,202,84,202,93,163,93",
+      "words": "poorly"
+    },
+    {
+      "boundingBox": "163,169,243,169,243,178,163,178",
+      "words": "•transaction"
+    },
+    {
+      "boundingBox": "162,195,250,195,250,205,162,205",
+      "words": "•accompany"
+    },
+    {
+      "boundingBox": "181,207,218,207,218,216,181,216",
+      "words": "mpany"
+    },
+    {
+      "boundingBox": "172,231,234,231,234,240,172,240",
+      "words": "accuracy"
+    },
+    {
+      "boundingBox": "162,241,225,241,225,250,162,250",
+      "words": "inaccuracy"
+    },
+    {
+      "boundingBox": "163,307,211,307,211,316,163,316",
+      "words": "ccease"
+    },
+    {
+      "boundingBox": "163,328,210,328,210,337,163,337",
+      "words": "suspend"
+    },
+    {
+      "boundingBox": "163,340,202,340,202,349,163,349",
+      "words": "pause"
+    },
+    {
+      "boundingBox": "165,360,265,360,265,370,165,370",
+      "words": "rit: 20"
+    },
+    {
+      "boundingBox": "166,381,258,381,258,390,166,390",
+      "words": "词频**☆☆"
+    },
+    {
+      "boundingBox": "164,394,226,394,226,403,164,403",
+      "words": "•contend"
+    },
+    {
+      "boundingBox": "165,420,242,420,242,430,165,430",
+      "words": "•manipulate"
+    },
+    {
+      "boundingBox": "165,432,234,432,234,440,165,440",
+      "words": "manipulation"
+    },
+    {
+      "boundingBox": "165,442,265,442,265,450,165,450",
+      "words": "take charge of = be"
+    },
+    {
+      "boundingBox": "161,455,226,455,226,464,161,464",
+      "words": "in charge of"
+    },
+    {
+      "boundingBox": "161,482,225,482,225,491,161,491",
+      "words": "council"
+    },
+    {
+      "boundingBox": "181,491,258,491,258,500,181,500",
+      "words": "State Council"
+    },
+    {
+      "boundingBox": "161,517,250,517,250,527,161,527",
+      "words": "•enthusiastic"
+    },
+    {
+      "boundingBox": "172,529,226,529,226,537,172,537",
+      "words": "nthusiasm"
+    },
+    {
+      "boundingBox": "161,541,249,541,249,550,161,550",
+      "words": "enthusiastically"
+    },
+    {
+      "boundingBox": "166,565,226,565,226,575,166,575",
+      "words": "einflation."
+    },
+    {
+      "boundingBox": "173,589,226,589,226,599,173,599",
+      "words": "inflation."
+    },
+    {
+      "boundingBox": "161,601,226,601,226,610,161,610",
+      "words": "inflationary"
+    },
+    {
+      "boundingBox": "161,613,201,613,201,622,161,622",
+      "words": "infiate"
+    },
+    {
+      "boundingBox": "161,625,210,625,210,634,161,634",
+      "words": "deflation."
+    },
+    {
+      "boundingBox": "161,651,225,651,225,660,161,660",
+      "words": ".likewise"
+    },
+    {
+      "boundingBox": "160,664,218,664,218,672,160,672",
+      "words": "|moreover"
+    },
+    {
+      "boundingBox": "160,675,226,675,226,683,160,683",
+      "words": "furthermore"
+    },
+    {
+      "boundingBox": "160,701,226,701,226,710,160,710",
+      "words": ".outcome"
+    },
+    {
+      "boundingBox": "173,712,202,712,202,719,173,719",
+      "words": "comel"
+    },
+    {
+      "boundingBox": "160,737,235,737,235,746,160,746",
+      "words": ".speculate"
+    },
+    {
+      "boundingBox": "160,761,217,761,217,770,160,770",
+      "words": "•diffuse"
+    },
+    {
+      "boundingBox": "160,786,218,786,218,796,160,796",
+      "words": ".explicit"
+    },
+    {
+      "boundingBox": "159,799,210,799,210,807,159,807",
+      "words": "explicitly"
+    },
+    {
+      "boundingBox": "159,810,209,810,209,818,159,818",
+      "words": "|definite"
+    },
+    {
+      "boundingBox": "159,836,226,836,226,845,159,845",
+      "words": ".fragment"
+    },
+    {
+      "boundingBox": "158,846,226,846,226,855,158,855",
+      "words": "fragmented"
+    },
+    {
+      "boundingBox": "158,858,225,858,225,867,158,867",
+      "words": "a fraction of"
+    },
+    {
+      "boundingBox": "159,883,203,883,203,893,159,893",
+      "words": ".hook"
+    },
+    {
+      "boundingBox": "159,908,218,908,218,917,159,917",
+      "words": "•horizon"
+    },
+    {
+      "boundingBox": "158,932,209,932,209,942,158,942",
+      "words": "lobby"
+    },
+    {
+      "boundingBox": "159,943,209,943,209,952,159,952",
+      "words": "lobbyino"
+    },
+    {
+      "boundingBox": "164,107,234,107,234,117,164,117",
+      "words": "•reluctant"
+    },
+    {
+      "boundingBox": "274,96,329,96,329,106,274,106",
+      "words": "|.sweep"
+    },
+    {
+      "boundingBox": "163,121,219,121,219,130,163,130",
+      "words": "reluctantly"
+    },
+    {
+      "boundingBox": "299,132,321,132,321,142,299,142",
+      "words": "ality"
+    },
+    {
+      "boundingBox": "163,128,321,128,321,137,163,137",
+      "words": "be reluctant to dotrivial"
+    },
+    {
+      "boundingBox": "163,144,187,144,187,151,163,151",
+      "words": "sth."
+    },
+    {
+      "boundingBox": "276,23,321,23,321,32,276,32",
+      "words": "omerit"
+    },
+    {
+      "boundingBox": "275,33,313,33,313,42,275,42",
+      "words": "demer"
+    },
+    {
+      "boundingBox": "284,156,314,156,314,166,284,166",
+      "words": "item"
+    },
+    {
+      "boundingBox": "274,167,336,167,336,177,274,177",
+      "words": "be an item"
+    },
+    {
+      "boundingBox": "275,230,383,230,383,242,275,242",
+      "words": "-低频词汇篇-"
+    },
+    {
+      "boundingBox": "274,346,328,346,328,354,274,354",
+      "words": "bound"
+    },
+    {
+      "boundingBox": "274,359,321,359,321,368,274,368",
+      "words": "rebound"
+    },
+    {
+      "boundingBox": "292,369,328,369,328,377,292,377",
+      "words": "undary"
+    },
+    {
+      "boundingBox": "274,381,321,381,321,390,274,390",
+      "words": "abound"
+    },
+    {
+      "boundingBox": "273,394,344,394,344,403,273,403",
+      "words": "be bound to"
+    },
+    {
+      "boundingBox": "272,406,368,406,368,414,272,414",
+      "words": "be bound up with"
+    },
+    {
+      "boundingBox": "272,430,328,430,328,439,272,439",
+      "words": ".bother"
+    },
+    {
+      "boundingBox": "291,442,344,442,344,450,291,450",
+      "words": "ther to do"
+    },
+    {
+      "boundingBox": "272,455,336,455,336,464,272,464",
+      "words": "pessimistic"
+    },
+    {
+      "boundingBox": "273,468,305,468,305,477,273,477",
+      "words": "prey"
+    },
+    {
+      "boundingBox": "272,493,313,493,313,502,272,502",
+      "words": "•rent"
+    },
+    {
+      "boundingBox": "272,503,321,503,321,512,272,512",
+      "words": "coherent"
+    },
+    {
+      "boundingBox": "275,61,344,61,344,72,275,72",
+      "words": ".penalty,."
+    },
+    {
+      "boundingBox": "299,71,305,71,305,81,299,81",
+      "words": "is"
+    },
+    {
+      "boundingBox": "275,193,344,193,344,203,275,203",
+      "words": "•disgrace"
+    },
+    {
+      "boundingBox": "272,530,344,530,344,539,272,539",
+      "words": ".organize"
+    },
+    {
+      "boundingBox": "291,541,344,541,344,549,291,549",
+      "words": "organized"
+    },
+    {
+      "boundingBox": "273,552,321,552,321,561,273,561",
+      "words": "mobilize"
+    },
+    {
+      "boundingBox": "273,565,320,565,320,574,273,574",
+      "words": "arrange"
+    },
+    {
+      "boundingBox": "273,589,345,589,345,599,273,599",
+      "words": "•perpetual"
+    },
+    {
+      "boundingBox": "273,615,320,615,320,624,273,624",
+      "words": "•harm"
+    },
+    {
+      "boundingBox": "283,625,305,625,305,633,283,633",
+      "words": "arml"
+    },
+    {
+      "boundingBox": "307,632,313,632,313,640,307,640",
+      "words": "u"
+    },
+    {
+      "boundingBox": "274,638,336,638,336,646,274,646",
+      "words": "harmonious"
+    },
+    {
+      "boundingBox": "274,650,312,650,312,658,274,658",
+      "words": "harsh"
+    },
+    {
+      "boundingBox": "274,662,359,662,359,672,274,672",
+      "words": "pharmaceutical"
+    },
+    {
+      "boundingBox": "273,674,305,674,305,681,273,681",
+      "words": "hurt"
+    },
+    {
+      "boundingBox": "271,687,321,687,321,695,271,695",
+      "words": "damage"
+    },
+    {
+      "boundingBox": "271,713,344,713,344,722,271,722",
+      "words": ".electronic"
+    },
+    {
+      "boundingBox": "271,723,336,723,336,732,271,732",
+      "words": "electronics"
+    },
+    {
+      "boundingBox": "271,736,344,736,344,744,271,744",
+      "words": "electronically"
+    },
+    {
+      "boundingBox": "274,762,306,762,306,771,274,771",
+      "words": "rare"
+    },
+    {
+      "boundingBox": "275,774,312,774,312,782,275,782",
+      "words": "rarely"
+    },
+    {
+      "boundingBox": "270,785,336,785,336,794,270,794",
+      "words": "uncommon"
+    },
+    {
+      "boundingBox": "271,797,337,797,337,805,271,805",
+      "words": "exceptionall"
+    },
+    {
+      "boundingBox": "271,822,313,822,313,830,271,830",
+      "words": "•freat"
+    },
+    {
+      "boundingBox": "270,835,313,835,313,844,270,844",
+      "words": "|retreat"
+    },
+    {
+      "boundingBox": "270,845,353,845,353,854,270,854",
+      "words": "undertreatment"
+    },
+    {
+      "boundingBox": "270,858,304,858,304,866,270,866",
+      "words": "deal"
+    },
+    {
+      "boundingBox": "271,870,313,870,313,879,271,879",
+      "words": "handle"
+    },
+    {
+      "boundingBox": "271,897,321,897,321,906,271,906",
+      "words": ".vanish"
+    },
+    {
+      "boundingBox": "283,907,321,907,321,916,283,916",
+      "words": "iminish"
+    },
+    {
+      "boundingBox": "270,919,328,919,328,928,270,928",
+      "words": "disappear"
+    },
+    {
+      "boundingBox": "270,944,321,944,321,952,270,952",
+      "words": "•divide."
+    },
+    {
+      "boundingBox": "277,956,321,956,321,964,277,964",
+      "words": "dividend"
+    },
+    {
+      "boundingBox": "388,245,447,245,447,255,388,255",
+      "words": "•prompt"
+    },
+    {
+      "boundingBox": "409,256,439,256,439,265,409,265",
+      "words": "voke\""
+    },
+    {
+      "boundingBox": "274,275,415,275,415,287,274,287",
+      "words": "nit21 spur"
+    },
+    {
+      "boundingBox": "402,267,447,267,447,277,402,277",
+      "words": "ompting"
+    },
+    {
+      "boundingBox": "282,295,370,295,370,304,282,304",
+      "words": "词频*☆☆☆☆"
+    },
+    {
+      "boundingBox": "273,309,328,309,328,318,273,318",
+      "words": "•subtlel"
+    },
+    {
+      "boundingBox": "274,321,337,321,337,329,274,329",
+      "words": "subsequent"
+    },
+    {
+      "boundingBox": "389,21,432,21,432,31,389,31",
+      "words": "divided."
+    },
+    {
+      "boundingBox": "389,34,440,34,440,43,389,43",
+      "words": "separatel"
+    },
+    {
+      "boundingBox": "388,46,415,46,415,56,388,56",
+      "words": "split"
+    },
+    {
+      "boundingBox": "388,72,432,72,432,81,388,81",
+      "words": "omere"
+    },
+    {
+      "boundingBox": "388,84,431,84,431,93,388,93",
+      "words": "merely"
+    },
+    {
+      "boundingBox": "388,95,431,95,431,104,388,104",
+      "words": "sheer"
+    },
+    {
+      "boundingBox": "388,107,431,107,431,116,388,116",
+      "words": "simple|"
+    },
+    {
+      "boundingBox": "389,133,439,133,439,142,389,142",
+      "words": ".invest"
+    },
+    {
+      "boundingBox": "388,145,439,145,439,155,388,155",
+      "words": "investor"
+    },
+    {
+      "boundingBox": "397,156,447,156,447,165,397,165",
+      "words": "vestment"
+    },
+    {
+      "boundingBox": "388,169,455,169,455,178,388,178",
+      "words": "investigation"
+    },
+    {
+      "boundingBox": "388,195,479,195,479,205,388,205",
+      "words": "•manufacture"
+    },
+    {
+      "boundingBox": "387,206,470,206,470,216,387,216",
+      "words": "manufacturing"
+    },
+    {
+      "boundingBox": "388,218,469,218,469,227,388,227",
+      "words": "manufacturer"
+    },
+    {
+      "boundingBox": "388,304,432,304,432,312,388,312",
+      "words": "•table"
+    },
+    {
+      "boundingBox": "387,316,454,316,454,325,387,325",
+      "words": "comfortable"
+    },
+    {
+      "boundingBox": "386,328,447,328,447,336,386,336",
+      "words": "charitable"
+    },
+    {
+      "boundingBox": "386,341,447,341,447,350,386,350",
+      "words": "acceptable"
+    },
+    {
+      "boundingBox": "386,353,447,353,447,362,386,362",
+      "words": "disputable"
+    },
+    {
+      "boundingBox": "386,365,447,365,447,373,386,373",
+      "words": "profitable"
+    },
+    {
+      "boundingBox": "386,375,423,375,423,384,386,384",
+      "words": "stable"
+    },
+    {
+      "boundingBox": "386,389,462,389,462,398,386,398",
+      "words": "unacceptable."
+    },
+    {
+      "boundingBox": "386,401,438,401,438,410,386,410",
+      "words": "suitable"
+    },
+    {
+      "boundingBox": "386,414,453,414,453,423,386,423",
+      "words": "regrettable"
+    },
+    {
+      "boundingBox": "385,427,454,427,454,435,385,435",
+      "words": "respectablel"
+    },
+    {
+      "boundingBox": "386,452,439,452,439,462,386,462",
+      "words": "•weigh"
+    },
+    {
+      "boundingBox": "386,463,430,463,430,472,386,472",
+      "words": "weight"
+    },
+    {
+      "boundingBox": "385,474,439,474,439,483,385,483",
+      "words": "outwelgh"
+    },
+    {
+      "boundingBox": "385,500,432,500,432,509,385,509",
+      "words": ".boom"
+    },
+    {
+      "boundingBox": "385,510,447,510,447,519,385,519",
+      "words": "baby boom"
+    },
+    {
+      "boundingBox": "385,537,439,537,439,547,385,547",
+      "words": "•entitle"
+    },
+    {
+      "boundingBox": "385,548,408,548,408,558,385,558",
+      "words": "title"
+    },
+    {
+      "boundingBox": "384,560,447,560,447,569,384,569",
+      "words": "entitlement"
+    },
+    {
+      "boundingBox": "385,571,431,571,431,580,385,580",
+      "words": "subtitle"
+    },
+    {
+      "boundingBox": "385,585,456,585,456,594,385,594",
+      "words": "be entitled to"
+    },
+    {
+      "boundingBox": "384,597,446,597,446,606,384,606",
+      "words": ": nominate"
+    },
+    {
+      "boundingBox": "384,610,447,610,447,619,384,619",
+      "words": "denominate"
+    },
+    {
+      "boundingBox": "384,634,447,634,447,643,384,643",
+      "words": ".institute"
+    },
+    {
+      "boundingBox": "394,648,447,648,447,656,394,656",
+      "words": "nstitution"
+    },
+    {
+      "boundingBox": "384,658,432,658,432,667,384,667",
+      "words": "Institutio"
+    },
+    {
+      "boundingBox": "384,685,440,685,440,695,384,695",
+      "words": "•restrict"
+    },
+    {
+      "boundingBox": "401,695,439,695,439,703,401,703",
+      "words": "striction"
+    },
+    {
+      "boundingBox": "383,707,487,707,487,715,383,715",
+      "words": "restrain sb. from"
+    },
+    {
+      "boundingBox": "384,720,439,720,439,729,384,729",
+      "words": "doing sth"
+    },
+    {
+      "boundingBox": "384,731,487,731,487,740,384,740",
+      "words": "refrain from doina"
+    },
+    {
+      "boundingBox": "383,743,408,743,408,752,383,752",
+      "words": "sth."
+    },
+    {
+      "boundingBox": "383,756,439,756,439,765,383,765",
+      "words": "constrain"
+    },
+    {
+      "boundingBox": "383,768,416,768,416,777,383,777",
+      "words": "curb"
+    },
+    {
+      "boundingBox": "383,779,431,779,431,789,383,789",
+      "words": "prohibit "
+    },
+    {
+      "boundingBox": "384,793,416,793,416,802,384,802",
+      "words": "forbid"
+    },
+    {
+      "boundingBox": "383,818,439,818,439,828,383,828",
+      "words": "•partial"
+    },
+    {
+      "boundingBox": "383,842,463,842,463,851,383,851",
+      "words": ".conclusion"
+    },
+    {
+      "boundingBox": "383,855,447,855,447,863,383,863",
+      "words": "conclusive"
+    },
+    {
+      "boundingBox": "383,867,454,867,454,875,383,875",
+      "words": "inconclusive."
+    },
+    {
+      "boundingBox": "383,879,438,879,438,887,383,887",
+      "words": "conclude"
+    },
+    {
+      "boundingBox": "382,891,446,891,446,899,382,899",
+      "words": "concluding"
+    },
+    {
+      "boundingBox": "382,903,431,903,431,911,382,911",
+      "words": "excludel"
+    },
+    {
+      "boundingBox": "382,914,454,914,454,922,382,922",
+      "words": "in conclusion"
+    },
+    {
+      "boundingBox": "383,941,447,941,447,950,383,950",
+      "words": "decorate"
+    },
+    {
+      "boundingBox": "383,952,439,952,439,960,383,960",
+      "words": "omament"
+    },
+    {
+      "boundingBox": "503,24,667,24,667,34,503,34",
+      "words": ".discard hedge"
+    },
+    {
+      "boundingBox": "502,34,558,34,558,44,502,44",
+      "words": "dispose of"
+    },
+    {
+      "boundingBox": "503,49,698,49,698,59,503,59",
+      "words": "get rid of .hypothesis"
+    },
+    {
+      "boundingBox": "503,59,548,59,548,68,503,68",
+      "words": "cast off"
+    },
+    {
+      "boundingBox": "502,72,541,72,541,81,502,81",
+      "words": "desert"
+    },
+    {
+      "boundingBox": "501,85,549,85,549,93,501,93",
+      "words": "abandon"
+    },
+    {
+      "boundingBox": "613,72,660,72,660,82,613,82",
+      "words": ".infant"
+    },
+    {
+      "boundingBox": "503,102,668,102,668,113,503,113",
+      "words": "Cnit22 intrude"
+    },
+    {
+      "boundingBox": "504,125,650,125,650,135,504,135",
+      "words": "词*☆☆☆ knit"
+    },
+    {
+      "boundingBox": "503,139,587,139,587,149,503,149",
+      "words": "•discourage"
+    },
+    {
+      "boundingBox": "502,152,549,152,549,160,502,160",
+      "words": "courage"
+    },
+    {
+      "boundingBox": "503,163,566,163,566,172,503,172",
+      "words": "courageous"
+    },
+    {
+      "boundingBox": "503,176,565,176,565,185,503,185",
+      "words": "encourage"
+    },
+    {
+      "boundingBox": "500,200,542,200,542,209,500,209",
+      "words": "edevil"
+    },
+    {
+      "boundingBox": "504,224,557,224,557,235,504,235",
+      "words": "•elderlyi"
+    },
+    {
+      "boundingBox": "500,249,541,249,541,259,500,259",
+      "words": ".bulk"
+    },
+    {
+      "boundingBox": "500,261,532,261,532,270,500,270",
+      "words": "bulb"
+    },
+    {
+      "boundingBox": "500,287,557,287,557,297,500,297",
+      "words": ".bypass"
+    },
+    {
+      "boundingBox": "500,310,557,310,557,319,500,319",
+      "words": "•calorie"
+    },
+    {
+      "boundingBox": "500,333,565,333,565,343,500,343",
+      "words": "•facilitate"
+    },
+    {
+      "boundingBox": "505,359,541,359,541,368,505,368",
+      "words": "•faint"
+    },
+    {
+      "boundingBox": "505,383,581,383,581,393,505,393",
+      "words": "fashionable"
+    },
+    {
+      "boundingBox": "504,408,566,408,566,418,504,418",
+      "words": ".gratitude"
+    },
+    {
+      "boundingBox": "500,433,588,433,588,444,500,444",
+      "words": ".engineering"
+    },
+    {
+      "boundingBox": "504,469,558,469,558,478,504,478",
+      "words": "ealliance"
+    },
+    {
+      "boundingBox": "499,493,573,493,573,503,499,503",
+      "words": "•backward"
+    },
+    {
+      "boundingBox": "499,518,533,518,533,528,499,528",
+      "words": ".baiti"
+    },
+    {
+      "boundingBox": "499,543,565,543,565,553,499,553",
+      "words": ".banquet"
+    },
+    {
+      "boundingBox": "499,566,573,566,573,576,499,576",
+      "words": "•constitute"
+    },
+    {
+      "boundingBox": "499,591,573,591,573,601,499,601",
+      "words": ".copyright"
+    },
+    {
+      "boundingBox": "499,617,549,617,549,627,499,627",
+      "words": ".costly"
+    },
+    {
+      "boundingBox": "498,641,542,641,542,650,498,650",
+      "words": ".damn"
+    },
+    {
+      "boundingBox": "497,665,550,665,550,674,497,674",
+      "words": "edeputy"
+    },
+    {
+      "boundingBox": "497,700,676,700,676,710,497,710",
+      "words": "Unit23.reinforce"
+    },
+    {
+      "boundingBox": "503,716,651,716,651,725,503,725",
+      "words": "词*☆☆ enforce"
+    },
+    {
+      "boundingBox": "497,732,531,732,531,741,497,741",
+      "words": "•bin"
+    },
+    {
+      "boundingBox": "497,743,525,743,525,751,497,751",
+      "words": "bind"
+    },
+    {
+      "boundingBox": "497,768,549,768,549,777,497,777",
+      "words": ".bruise"
+    },
+    {
+      "boundingBox": "496,793,556,793,556,802,496,802",
+      "words": "•census"
+    },
+    {
+      "boundingBox": "497,817,549,817,549,827,497,827",
+      "words": "•clarity"
+    },
+    {
+      "boundingBox": "496,829,541,829,541,838,496,838",
+      "words": "charter"
+    },
+    {
+      "boundingBox": "496,854,541,854,541,863,496,863",
+      "words": "•moan"
+    },
+    {
+      "boundingBox": "496,879,542,879,542,888,496,888",
+      "words": ".mock"
+    },
+    {
+      "boundingBox": "496,902,573,902,573,912,496,912",
+      "words": "•obsession."
+    },
+    {
+      "boundingBox": "496,928,557,928,557,938,496,938",
+      "words": ".passion"
+    },
+    {
+      "boundingBox": "496,951,566,951,566,962,496,962",
+      "words": ".prevalent"
+    },
+    {
+      "boundingBox": "612,159,684,159,684,169,612,169",
+      "words": ".repertoire"
+    },
+    {
+      "boundingBox": "612,183,667,183,667,192,612,192",
+      "words": "•senate"
+    },
+    {
+      "boundingBox": "612,208,667,208,667,218,612,218",
+      "words": "•handle"
+    },
+    {
+      "boundingBox": "612,218,660,218,660,227,612,227",
+      "words": "get rid of"
+    },
+    {
+      "boundingBox": "612,231,668,231,668,240,612,240",
+      "words": "dispose of"
+    },
+    {
+      "boundingBox": "613,244,667,244,667,253,613,253",
+      "words": "cope with"
+    },
+    {
+      "boundingBox": "612,257,659,257,659,266,612,266",
+      "words": "manage"
+    },
+    {
+      "boundingBox": "612,268,660,268,660,277,612,277",
+      "words": "address"
+    },
+    {
+      "boundingBox": "612,293,684,293,684,303,612,303",
+      "words": ".monopoly"
+    },
+    {
+      "boundingBox": "612,306,675,306,675,315,612,315",
+      "words": "possession"
+    },
+    {
+      "boundingBox": "612,318,651,318,651,326,612,326",
+      "words": "control"
+    },
+    {
+      "boundingBox": "610,343,659,343,659,352,610,352",
+      "words": "•strive"
+    },
+    {
+      "boundingBox": "613,353,644,353,644,361,613,361",
+      "words": "stripel"
+    },
+    {
+      "boundingBox": "609,366,660,366,660,375,609,375",
+      "words": "strive for"
+    },
+    {
+      "boundingBox": "615,387,715,387,715,398,615,398",
+      "words": "Unit 24"
+    },
+    {
+      "boundingBox": "615,407,706,407,706,416,615,416",
+      "words": "词k*☆☆☆☆"
+    },
+    {
+      "boundingBox": "610,422,659,422,659,432,610,432",
+      "words": "•adapt"
+    },
+    {
+      "boundingBox": "609,433,684,433,684,442,609,442",
+      "words": "adaptiveness"
+    },
+    {
+      "boundingBox": "609,445,658,445,658,454,609,454",
+      "words": "readmit"
+    },
+    {
+      "boundingBox": "610,473,683,473,683,484,610,484",
+      "words": "•contempt"
+    },
+    {
+      "boundingBox": "623,507,659,507,659,517,623,517",
+      "words": "dense"
+    },
+    {
+      "boundingBox": "610,518,651,518,651,527,610,527",
+      "words": "densely"
+    },
+    {
+      "boundingBox": "616,543,668,543,668,552,616,552",
+      "words": "exhaust"
+    },
+    {
+      "boundingBox": "616,567,675,567,675,577,616,577",
+      "words": "•forecast"
+    },
+    {
+      "boundingBox": "609,592,667,592,667,601,609,601",
+      "words": "emutuall"
+    },
+    {
+      "boundingBox": "609,602,636,602,636,611,609,611",
+      "words": "mutt"
+    },
+    {
+      "boundingBox": "609,613,691,613,691,623,609,623",
+      "words": "mutual benefit "
+    },
+    {
+      "boundingBox": "610,641,675,641,675,650,610,650",
+      "words": "enowhere"
+    },
+    {
+      "boundingBox": "624,665,684,665,684,675,624,675",
+      "words": "referable"
+    },
+    {
+      "boundingBox": "608,676,674,676,674,685,608,685",
+      "words": "preference"
+    },
+    {
+      "boundingBox": "608,739,659,739,659,747,608,747",
+      "words": "•renew"
+    },
+    {
+      "boundingBox": "608,768,713,768,713,778,608,778",
+      "words": ".sympathyny for"
+    },
+    {
+      "boundingBox": "607,774,651,774,651,783,607,783",
+      "words": "show sy"
+    },
+    {
+      "boundingBox": "607,787,704,787,704,797,607,797",
+      "words": "in sympathy with"
+    },
+    {
+      "boundingBox": "607,811,652,811,652,820,607,820",
+      "words": ".excell"
+    },
+    {
+      "boundingBox": "607,825,651,825,651,834,607,834",
+      "words": "excess"
+    },
+    {
+      "boundingBox": "607,836,660,836,660,845,607,845",
+      "words": "excessive"
+    },
+    {
+      "boundingBox": "607,849,667,849,667,858,607,858",
+      "words": "excellent"
+    },
+    {
+      "boundingBox": "607,862,667,862,667,870,607,870",
+      "words": "excellence"
+    },
+    {
+      "boundingBox": "606,873,667,873,667,881,606,881",
+      "words": "excel in/at"
+    },
+    {
+      "boundingBox": "606,886,651,886,651,895,606,895",
+      "words": ".forth"
+    },
+    {
+      "boundingBox": "606,898,658,898,658,906,606,906",
+      "words": "set forth"
+    },
+    {
+      "boundingBox": "606,910,690,910,690,919,606,919",
+      "words": "back-and-forth"
+    },
+    {
+      "boundingBox": "606,923,675,923,675,931,606,931",
+      "words": "and so forth"
+    },
+    {
+      "boundingBox": "613,947,690,947,690,958,613,958",
+      "words": "frightening"
+    }
+  ]
+}
