@@ -41,27 +41,16 @@ public class ExcelUtilUnit {
 		int start = 1;
 		int end = 30;
 		boolean random = true;
-
 		List<String> sourceWordList = new ArrayList<>();
 		for (int i = start; i <= end; i++) {
+			String filename = i + "";
 			sourceWordList.addAll(WordsUtil.loadWordsByUnit(i));
+			String filepath = Constants.rootFolderPath + "\\excel\\sequence\\people\\unit" + filename + ".xls";
+			if (random) {
+				filepath = Constants.rootFolderPath + "\\excel\\random\\people\\unit" + filename + ".xls";
+			}
+			outputExcelPeople(sourceWordList, filename, filepath, random);
 		}
-		String filename = start + "";
-		if (end - start != 0) {
-			filename = filename + "-" + end;
-		}
-
-		// String commonFilename = "7-9_C.txt";
-		// String sourceFilepath = "\\excel\\unknow\\txt\\unit" + commonFilename;
-		// List<String> sourceWordList = WordsUtil.loadWordsByFile(sourceFilepath);
-		// commonFilename.replace(".txt", "")
-
-		String filepath = Constants.rootFolderPath + "\\excel\\sequence\\people\\unit" + filename + ".xls";
-		if (random) {
-			filepath = Constants.rootFolderPath + "\\excel\\random\\people\\unit" + filename + ".xls";
-		}
-
-		outputExcelPeople(sourceWordList, filename, filepath, random);
 		System.out.println("运行耗时：" + (System.currentTimeMillis() - startMillis) + " millis");
 	}
 

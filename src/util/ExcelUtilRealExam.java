@@ -138,6 +138,8 @@ public class ExcelUtilRealExam {
 		cellStyle.setWrapText(true);
 		cellStyle.setBorderTop(BorderStyle.DOTTED);
 		cellStyle.setBorderBottom(BorderStyle.DOTTED);
+		cellStyle.setBorderLeft(BorderStyle.DOTTED);
+		cellStyle.setBorderRight(BorderStyle.DOTTED);
 		cellStyle.setTopBorderColor(HSSFColor.GREY_50_PERCENT.index);
 		cellStyle.setBottomBorderColor(HSSFColor.GREY_50_PERCENT.index);
 		cellStyle.setVerticalAlignment(VerticalAlignment.TOP);
