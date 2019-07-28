@@ -43,7 +43,11 @@ public class ExcelUtilUnit {
 		boolean random = true;
 		List<String> sourceWordList = new ArrayList<>();
 		for (int i = start; i <= end; i++) {
+			// 文件名
 			String filename = i + "";
+			// 为了每个单元一个文件，首先清空list
+			sourceWordList.clear();
+			// 再把一个添加到list中
 			sourceWordList.addAll(WordsUtil.loadWordsByUnit(i));
 			String filepath = Constants.rootFolderPath + "\\excel\\sequence\\people\\unit" + filename + ".xls";
 			if (random) {
